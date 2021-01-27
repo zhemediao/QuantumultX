@@ -3,21 +3,21 @@
 const $ = API("0201", true);
 //种豆得豆
 const beanURL = 'http://api.turinglabs.net/api/v1/jd/bean/create/'
-//农场
+//京东农场
 const farmURL = 'http://api.turinglabs.net/api/v1/jd/farm/create/'
-//萌宠物
+//京东萌宠
 const petURL = 'http://api.turinglabs.net/api/v1/jd/pet/create/'
 //东东工厂
 const ddfactoryURL = 'http://api.turinglabs.net/api/v1/jd/ddfactory/create/'
 //京喜工厂
 const jxfactoryURL = 'http://api.turinglabs.net/api/v1/jd/jxfactory/create/'
 
-//农场互助码
-const farmCode0 = 'da7ae46e2b4343319662f5d992a49157'
-//萌宠的互助码
-const petCode0 = 'MTE1NDQ5OTUwMDAwMDAwNDMxNzU1MzE='
-//种豆得豆的
+//种豆得豆
 const beanCode0 = 'hi5pfpi6tw2vje63si5hwaj7mis4u2u5xzpnppa'
+//京东农场
+const farmCode0 = 'da7ae46e2b4343319662f5d992a49157'
+//京东萌宠
+const petCode0 = 'MTE1NDQ5OTUwMDAwMDAwNDMxNzU1MzE='
 //东东工厂
 const ddfactory0 = 'T024ZnLalJakI_xI9JdkQ12-rYeMCjVWnYaS5kRrbA'
 //京喜工厂
